@@ -1,0 +1,30 @@
+================================================== ======================
+    CONSOLE APPLICATION: PokerEins Project Overview
+================================================== ======================
+
+This PokerEins application was created for you by the AppWizard.
+
+This file provides an overview of the contents of each file
+which your PokerEins application passes.
+
+
+PokerEins.vcxproj
+    This is the main project file for VC ++ projects generated with the AppWizard. It contains information about the version of Visual C ++ that generated the file, as well as the platforms, configurations, and project features selected in the AppWizard.
+
+PokerEins.vcxproj.filters
+    This is the filter file for VC ++ projects created using an AppWizard. It contains information about the association between the files in the project and the filters. This mapping is used in the IDE to represent the grouping of files with similar extensions under a given node (for example, CPP files are mapped to the Source Files filter).
+
+PokerEins.cpp
+    This is the main source file of the application.
+
+////////////////////////////////////////////////// ///////////////////////////
+Other standard files:
+
+StdAfx.h, StdAfx.cpp
+    These files create a precompiled header file (PCH) named PokerEins.pch and a precompiled type file named StdAfx.obj.
+
+////////////////////////////////////////////////// ///////////////////////////
+More information:
+
+The AppWizard directs you to parts of the "TODO:" comments
+Source codes that you should complete or customize.
